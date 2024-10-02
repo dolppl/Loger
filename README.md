@@ -10,3 +10,11 @@
 - **Eksport danych**: możliwość eksportu przefiltrowanych danych do pliku CSV.
 - **Obsługa botów**: identyfikacja popularnych botów, takich jak Googlebot, Bingbot, YandexBot i inne.
   
+## Uruchomienie
+
+Wykonaj komendę
+```bash
+docker compose up --build
+```
+
+Przejdź na stronę http://localhost:8501
