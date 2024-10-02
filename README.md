@@ -1,6 +1,6 @@
 # Loger
 
-**Loger** to aplikacja Streamlit służąca do analizy logów serwerowych. Aplikacja umożliwia ładowanie, parsowanie oraz analizę danych zawartych w plikach logów serwerowych w formatach `.log`, `.txt`, oraz `.gz`. Użytkownik może łatwo wizualizować statystyki logów, takie jak kody statusów HTTP, najczęściej odwiedzane strony, adresy IP oraz aktywność botów.
+**Loger** to aplikacja Streamlit służąca do analizy logów serwerowych. Aplikacja umożliwia ładowanie, parsowanie oraz analizę danych zawartych w plikach logów serwerowych w formatach `.log`, `.txt`, oraz `.gz`. Dzięki niemu można łatwo wizualizować statystyki logów, takie jak kody statusów HTTP, najczęściej odwiedzane strony, adresy IP oraz aktywność botów.
 
 ## Funkcje
 
